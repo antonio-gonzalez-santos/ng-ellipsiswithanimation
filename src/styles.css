@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+body{
+  background-color: #f5f2bc;
+}
+.is-ellipsis{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
